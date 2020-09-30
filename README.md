@@ -1,0 +1,1 @@
+# sonar-scan-incremental-analysis
